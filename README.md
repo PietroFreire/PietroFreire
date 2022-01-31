@@ -1,6 +1,5 @@
-# Hey, I'm Pietro! 👋 ![](https://komarev.com/ghpvc/?username=pietrofreire&color=blueviolet)
+# Hey, I'm Pietro! 👋 ![](https://komarev.com/ghpvc/?username=pietrofreire&color=blueviolet) [![wakatime](https://wakatime.com/badge/user/42ba6e96-1c49-407a-bc30-e8b7af9a439d.svg)](https://wakatime.com/@42ba6e96-1c49-407a-bc30-e8b7af9a439d)
 💻 Information Systems student at <a href="https://mackenzie.br"  target="_blank">Mackenzie University</a>.
-<br>
 📍 Living in São Paulo, Brazil.
 
 ### What I'm working on 👨‍💻
@@ -25,7 +24,7 @@
 <div> 
   <a href="https://www.youtube.com/channel/UC3zPE462Orjzz5-o-YAO6Vw" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/pietrofreire_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: freiregabriel98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto: contato@pietrofreire.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pietrofreire" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/pietrofreire/pietrofreire/blob/output/github-contribution-grid-snake.svg)
