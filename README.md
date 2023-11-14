@@ -1,6 +1,6 @@
 # Hey, I'm Pietro! 👋 ![](https://komarev.com/ghpvc/?username=pietrofreire&color=blueviolet) [![wakatime](https://wakatime.com/badge/user/42ba6e96-1c49-407a-bc30-e8b7af9a439d.svg)](https://wakatime.com/@42ba6e96-1c49-407a-bc30-e8b7af9a439d)
-💻 Information Systems student at <a href="https://mackenzie.br"  target="_blank">Mackenzie University</a>.
-📍 Living in São Paulo, Brazil.
+💻 Java Developer
+📍 Living in Lisbon, PT.
 
 ### What I'm working on 👨‍💻
 🎮 Creating a game using pygame... <a href="https://github.com/GBoteon/projeto-jogos" target="_blank">Click here!</a>
