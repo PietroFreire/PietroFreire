@@ -3,7 +3,7 @@
 📍 Living in Lisbon, PT.
 
 ### What I'm working on 👨‍💻
-🎮 Creating a skill swap plataform... <a href="https://github.com/GBoteon/projeto-jogos" target="_blank">Click here!</a>
+🎮 Creating...
 
 ### 📚 Books that help me a lot! ↴
   <a href="https://amz.run/3Qgp"  target="_blank"><img align="center" src="https://github.com/PietroFreire/PietroFreire/blob/master/images/O_poder_do_habito.jpg"></a>
