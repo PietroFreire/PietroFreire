@@ -1,5 +1,5 @@
 # Hey, I'm Pietro! 👋 ![](https://komarev.com/ghpvc/?username=pietrofreire&color=blueviolet) [![wakatime](https://wakatime.com/badge/user/42ba6e96-1c49-407a-bc30-e8b7af9a439d.svg)](https://wakatime.com/@42ba6e96-1c49-407a-bc30-e8b7af9a439d)
-💻 Java Developer
+💻 Java and Angular Developer
 📍 Living in Lisbon, PT.
 
 ### What I'm working on 👨‍💻
